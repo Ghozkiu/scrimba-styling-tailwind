@@ -1,3 +1,7 @@
+#About this project
+
+This project is just a test where I included Tailwindcss and Reactjs in the same app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
