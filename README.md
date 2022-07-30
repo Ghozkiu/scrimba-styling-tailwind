@@ -1,4 +1,4 @@
-#About this project
+# About this project
 
 This project is just a test where I included Tailwindcss and Reactjs in the same app.
 
